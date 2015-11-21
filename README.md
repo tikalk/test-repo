@@ -1,2 +1,2 @@
 # test-repo
-Test Git repository (2)
+Test Git repository
